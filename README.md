@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zhevonez
+- 👀 I’m interested in console-based apps
+- 🌱 I’m currently learning Python
+- 📫 My mail address is in bio
+- ⚡ Fun fact: I’m 5'7" tall
